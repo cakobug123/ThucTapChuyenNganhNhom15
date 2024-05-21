@@ -27,7 +27,7 @@
                        $recipient = $_POST['email'];
                        $subject = $_POST['subject'];
                        $message = $_POST['message'];
-                       $sender = "From:chachanh2011@gmail.com";
+                       $sender = "From:cabeoad@gmail.com";
                        //if user leave empty field among one of them
                        if(empty($recipient) || empty($subject) || empty($message)){
                            ?>
