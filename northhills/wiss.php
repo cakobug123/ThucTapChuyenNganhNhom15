@@ -162,7 +162,7 @@ echo "<script>window.location.href ='wiss.php'</script>";
                 </div>
                 <div class="col-lg-4">
                     <div class="class__sidebar">
-                        <h5>Bạn muốn sách gì? North Hills order giúp bạn</h5>
+                        <h5>Bạn muốn sách gì? War Thunder order giúp bạn</h5>
                       
                        
                         <div class="contact-form">
@@ -185,7 +185,7 @@ echo "<script>window.location.href ='wiss.php'</script>";
 						    	<span><textarea name="description" required="true" style="width:100%"> </textarea></span>
 						    </div>
 						   <div>
-						   		<span ><input type="submit" name="submit" value="Gửi cho North Hills" style=""></span>
+						   		<span ><input type="submit" name="submit" value="Gửi cho War Thunder" style=""></span>
 						  </div>
 					    </form>
 				    </div>
