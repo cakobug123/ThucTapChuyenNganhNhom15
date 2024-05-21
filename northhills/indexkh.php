@@ -120,8 +120,8 @@
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-8">
                             <div class="hero__text" style="height:450px;">
-                                <h2>North Hills </h2>
-                                <img src="./img/blog/qr1.jpg" style="width:180px; margin-left:32%">
+                                <h2> WarThunder </h2>
+                                <img src="./img/blog/qr1.png" style="width:180px; margin-left:32%">
                                 <br>
                                 <a href="#" class="primary-btn" style="background:#0b243b">Thiên đường của mọt sách</a>
                             </div>
@@ -152,10 +152,10 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="about__text">
                         <div class="section-title">
-                            <span style="color:#0b243b">About North Hills</span>
+                            <span style="color:#0b243b">About WarThunder</span>
                             <h2>Những cuốn sách tốt nhất có sẵn với giá tốt nhất!</h2>
                         </div>
-                        <p>"North Hills" là một tiệm sách nhỏ, khởi đầu là một doanh nghiệp nhỏ.</p>
+                        <p>" WarThunder" là một tiệm sách nhỏ, khởi đầu là một doanh nghiệp nhỏ.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
