@@ -362,8 +362,8 @@
                             <span style="color:#0b243b">Theo dõi chúng tôi trên instagram</span>
                             <h2>Những khoảng khắc ngọt ngào được lưu làm kỉ niệm.</h2>
                         </div>
-                        <h5><i class="fa fa-instagram"></i> @min.th_</h5>
-                        <h5><i class="fa fa-instagram"></i> @phuonght2610_</h5>
+                        <h5><i class="fa fa-instagram"></i> @lasaota</h5>
+                        <h5><i class="fa fa-instagram"></i> @lasaota</h5>
                     </div>
                 </div>
                 <div class="col-lg-8">
@@ -419,8 +419,8 @@
                     <div class="map__inner">
                         <h6>North Hills</h6>
                         <ul>
-                            <li>12 Nguyễn Văn Bảo, Phường 4, Gò Vấp</li>
-                            <li>northhills@gmail.com</li>
+                            <li>warthunder</li>
+                            <li>cabeoad@gmail.com</li>
                             <li>1900-1098</li>
                         </ul>
                     </div>
@@ -450,7 +450,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__logo">
-                            <p> NORTH HILLS </p>
+                            <p> warthunder </p>
                         </div>
                         <p>Tôi yêu chính nỗi đau, yêu nó, nhưng tôi dành nó cho khách hàng chính.</p>
                         <div class="footer__social">
@@ -463,7 +463,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="footer__newslatter">
-                        <h6>12 Nguyễn Văn Bảo</h6>
+                        <h6>warthunder</h6>
                         <p>Thắc mắc liên hệ.</p>
                         <form action="#">
                             <input type="text" placeholder="Email">
